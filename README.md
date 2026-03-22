@@ -1,16 +1,25 @@
-## Hi there 👋
+# Siddharth Hingorani
 
-<!--
-**sidhingo/sidhingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategy and operations professional with 12 years across financial services and PE advisory. I started building in early 2026 — everything here is a real problem I wanted to solve.
 
-Here are some ideas to get you started:
+Based in **New York City**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Value Desk · [live ↗](https://value-desk.vercel.app)
+
+PE analysis is fragmented across Excel files, static decks, and institutional databases that don't talk to each other. I built Value Desk to pull it into one place.
+
+Four modules: fund benchmarking against 21,000+ institutional peers, deal return modeling, value creation simulation, and a 100-day operational plan generator. Built in React, TypeScript, and Tailwind — connected to a live Supabase database. Deployed on Vercel.
+
+→ [github.com/sidhingo/ValueDesk](https://github.com/sidhingo/ValueDesk)
+
+---
+
+## Background
+
+Long career in strategy and operations. Started coding in early 2026. The gap between having domain expertise and being able to build with it turned out to be smaller than I expected.
+
+---
+
+*More projects coming.*
