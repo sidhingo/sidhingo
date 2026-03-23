@@ -12,7 +12,7 @@ PE analysis is fragmented across Excel files, static decks, and institutional da
 
 Four modules: fund benchmarking against 21,000+ institutional peers, deal return modeling, value creation simulation, and a 100-day operational plan generator. Built in React, TypeScript, and Tailwind — connected to a live Supabase database. Deployed on Vercel.
 
-→ [github.com/sidhingo/ValueDesk](https://github.com/sidhingo/ValueDesk)
+→ [[github.com/sidhingo/ValueDesk](https://github.com/sidhingo/ValueDesk)](https://github.com/sidhingo/ValueDesk/blob/main/README.md)
 
 ---
 
