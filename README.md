@@ -14,7 +14,7 @@ Based in **New York City**.
 
 PE analysis is fragmented across Excel files, static decks, and institutional databases that don't talk to each other. I built Value Desk to pull it into one place.
 
-Four modules: fund benchmarking against 21,000+ institutional peers, deal return modeling, value creation simulation, and a 100-day operational plan generator. Built in React, TypeScript, and Tailwind — connected to a live Supabase database. Deployed on Vercel.
+Four modules: fund benchmarking against 20K+ institutional peers, deal return modeling, value creation simulation, and a 100-day operational plan generator. Built in React, TypeScript, and Tailwind and connected to a live Supabase database. Deployed on Vercel.
 
 → [github.com/sidhingo/ValueDesk](https://github.com/sidhingo/ValueDesk)
 
@@ -22,7 +22,7 @@ Four modules: fund benchmarking against 21,000+ institutional peers, deal return
 
 ## The Simpsons Index · [live](https://simpsons-index.netlify.app)
 
-The show has been predicting the future since 1989. I built a structured database to find out how often it actually gets it right — scored by specificity, verified against real-world outcomes, and honest about the hits that turned out to be fabricated internet hoaxes.
+The show has been predicting the future since 1989. I built a structured database to find out how often it actually gets it right. Scored by specificity, verified against real-world outcomes, and honest about the hits that turned out to be fabricated internet hoaxes.
 
 → [github.com/sidhingo/simpsons-index](https://github.com/sidhingo/simpsons-index)
 
