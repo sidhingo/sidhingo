@@ -28,4 +28,14 @@ The show has been predicting the future since 1989. I built a structured databas
 
 ---
 
+## Tariff Impact Calculator · [live](https://tariff-impact-calculator.vercel.app)
+
+Everyone talks about tariffs as percentages. I built a calculator that converts them into dollars — for your household budget and your industry margins.
+
+Two modes: household spend by category with adjustable tariff rate, and sector-level margin pressure by industry. Built on published pass-through research from the NY Fed and Tax Foundation.
+
+→ [github.com/sidhingo/tariff-calculator](https://github.com/sidhingo/tariff-calculator)
+
+---
+
 *More projects coming.*
