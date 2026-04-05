@@ -42,7 +42,7 @@ Two modes: household spend by category with adjustable tariff rate, and sector-l
 
 IPL auction spending is debated endlessly but rarely measured. I built a value-for-money ranking of every crore spent across the 2024, 2025 and 2026 seasons — scoring each player by what they delivered on the pitch relative to their auction price.
 
-Three seasons, 150 players, a layered scoring model that accounts for role, economy benchmarks, and availability. Includes live 2026 predictions with confidence bands, a value-vs-price scatter chart, and four verdict labels — Steal, Worth It, Cheap, Overpaid — consistent across cards and chart. Built in React and Recharts with static JSON data. Deployed on Vercel.
+Three seasons, 150 players, a layered scoring model that accounts for role, economy benchmarks, and availability. Includes live 2026 predictions with confidence bands, a value-vs-price scatter chart, and four verdict labels: Steal, Worth It, Cheap, Overpaid. Built in React and Recharts with static JSON data. Deployed on Vercel.
 
 — github.com/sidhingo/powerplay-profits
 
