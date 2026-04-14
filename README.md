@@ -34,7 +34,7 @@ Built in React, TypeScript, and Tailwind and connected to a live Supabase databa
 
 ### Powerplay Profits · [live](https://powerplay-profits.vercel.app)
 
-IPL auction spending is debated endlessly but rarely measured. I built a value-for-money ranking of every crore spent across the 2023, 2024, 2025 and 2026 seasons — scoring each player by what they delivered on the pitch relative to their auction price.
+IPL auction spending is debated endlessly but rarely measured. I built a value-for-money ranking of every crore spent across the 2023, 2024, 2025 and 2026 seasons and scoring players by what they delivered on the pitch relative to their auction price.
 
 Four seasons, 200 players, a layered scoring model that accounts for role, economy benchmarks, and availability. Includes live 2026 predictions with confidence bands, a value-vs-price scatter chart, and four verdict labels: Steal, Worth It, Cheap, Overpaid. 
 
