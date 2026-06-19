@@ -56,7 +56,7 @@ Built in React with static JSON. Deployed on Netlify.
 
 ### Tariff Impact Calculator · [live](https://tariff-impact-calculator.vercel.app)
 
-Everyone talks about tariffs as percentages. I built a calculator that translates them into dollars — for your household budget and your industry margins.
+Everyone talks about tariffs as percentages. I built a calculator that translates them into dollars for your household budget and your industry margins.
 
 Two modes: household spend by category with adjustable tariff rate, and sector-level margin pressure by industry. Built on published pass-through research from the NY Fed and Tax Foundation.
 
