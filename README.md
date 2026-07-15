@@ -13,7 +13,7 @@ Based in **New York City**.
 | Project | What it does | Stack | Status |
 |---------|-------------|-------|--------|
 | [Value Desk](https://value-desk.vercel.app) | PE fund benchmarking + value creation simulation | React, TypeScript, Supabase | Live |
-| [100-Day Plan Generator](https://github.com/sidhingo/100-day-plan-generator) | Live AI pipeline that researches any company and builds a 100-day plan in real time | React, Vercel, Claude API | Live |
+| [100-Day Plan Generator](https://github.com/sidhingo/100-day-plan-generator) | Live AI pipeline that researches any company, builds a 100-day plan | React, Vercel, Claude API | Live |
 | [Powerplay Profits](https://powerplay-profits.vercel.app) | IPL auction ROI across 4 seasons, 200 players | React, Recharts | Live |
 | [Simpsons Index](https://simpsons-index.netlify.app) | Simpsons predictions scored vs reality | React | Live |
 | [Tariff Calculator](https://tariff-impact-calculator.vercel.app) | Tariffs translated to household dollars and industry margins | React | Live |
