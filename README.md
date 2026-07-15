@@ -33,7 +33,7 @@ Built in React, TypeScript, and Tailwind and connected to a live Supabase databa
 
 ---
 
-### 100-Day Plan Generator · [live]((https://hundred-day-plan.vercel.app/)
+### 100-Day Plan Generator · [live](https://hundred-day-plan.vercel.app)
 
 Most "AI-powered" tools are a single prompt wearing a nice UI. I built this to actually show the difference: type any company name and it runs a real two-stage pipeline live in front of you, a research pass that decides what to search for on its own, then a structuring pass that turns the findings into a 100-day plan.
 
@@ -41,7 +41,7 @@ It's less about the plan itself and more about watching it happen: real web sear
 
 Built in React and Vercel serverless functions, powered by the Claude API for research and reasoning, with Upstash Redis for rate limiting and Cloudflare Turnstile for bot protection.
 
-→ github.com/sidhingo/100-day-plan-generator
+→ [github.com/sidhingo/100-day-plan-generator](https://github.com/sidhingo/100-day-plan-generator)
 
 ---
 
