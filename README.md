@@ -13,6 +13,7 @@ Based in **New York City**.
 | Project | What it does | Stack | Status |
 |---------|-------------|-------|--------|
 | [Value Desk](https://value-desk.vercel.app) | PE fund benchmarking + value creation simulation | React, TypeScript, Supabase | Live |
+| [100-Day Plan Generator](https://github.com/sidhingo/100-day-plan-generator) | Live AI pipeline that researches any company and builds a 100-day plan in real time | React, Vercel, Claude API | Live |
 | [Powerplay Profits](https://powerplay-profits.vercel.app) | IPL auction ROI across 4 seasons, 200 players | React, Recharts | Live |
 | [Simpsons Index](https://simpsons-index.netlify.app) | Simpsons predictions scored vs reality | React | Live |
 | [Tariff Calculator](https://tariff-impact-calculator.vercel.app) | Tariffs translated to household dollars and industry margins | React | Live |
@@ -29,6 +30,18 @@ Four modules: fund benchmarking against 20K+ institutional peers; deal return mo
 Built in React, TypeScript, and Tailwind and connected to a live Supabase database. Deployed on Vercel.
 
 → [github.com/sidhingo/ValueDesk](https://github.com/sidhingo/ValueDesk)
+
+---
+
+### 100-Day Plan Generator · [live]((https://hundred-day-plan.vercel.app/)
+
+Most "AI-powered" tools are a single prompt wearing a nice UI. I built this to actually show the difference: type any company name and it runs a real two-stage pipeline live in front of you, a research pass that decides what to search for on its own, then a structuring pass that turns the findings into a 100-day plan.
+
+It's less about the plan itself and more about watching it happen: real web search, real reasoning, running in production with rate limiting, cost controls, and monitoring, not a one-off script.
+
+Built in React and Vercel serverless functions, powered by the Claude API for research and reasoning, with Upstash Redis for rate limiting and Cloudflare Turnstile for bot protection.
+
+→ github.com/sidhingo/100-day-plan-generator
 
 ---
 
