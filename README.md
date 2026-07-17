@@ -13,7 +13,8 @@ Based in **New York City**.
 | Project | What it does | Stack | Status |
 |---------|-------------|-------|--------|
 | [Value Desk](https://value-desk.vercel.app) | PE fund benchmarking + value creation simulation | React, TypeScript, Supabase | Live |
-| [100-Day Plan Generator](https://github.com/sidhingo/100-day-plan-generator) | Live AI pipeline that researches any company, builds a 100-day plan | React, Vercel, Claude API | Live |
+| [Strategy Translator](https://strategy-translator.vercel.app) | Live AI pipeline that turns messy notes into the actual decision and real tradeoffs | React, Vercel, Claude API | Live |
+| [100-Day Plan Generator](https://100-day-plan-generator.vercel.app) | Live AI pipeline that researches any company, builds a 100-day plan | React, Vercel, Claude API | Live |
 | [Powerplay Profits](https://powerplay-profits.vercel.app) | IPL auction ROI across 4 seasons, 200 players | React, Recharts | Live |
 | [Simpsons Index](https://simpsons-index.netlify.app) | Simpsons predictions scored vs reality | React | Live |
 | [Tariff Calculator](https://tariff-impact-calculator.vercel.app) | Tariffs translated to household dollars and industry margins | React | Live |
@@ -30,6 +31,18 @@ Four modules: fund benchmarking against 20K+ institutional peers; deal return mo
 Built in React, TypeScript, and Tailwind and connected to a live Supabase database. Deployed on Vercel.
 
 → [github.com/sidhingo/ValueDesk](https://github.com/sidhingo/ValueDesk)
+
+---
+
+### Strategy Translator · [live](https://strategy-translator.vercel.app)
+
+A raw AI chat can summarize messy notes fine however most people miss asking for a stated-vs-actual comparison, or to demand real tradeoffs instead of one comfortable answer. 
+I built this to encode that specific lens: paste meeting notes, a Slack thread, a status update, and it finds where what's said doesn't match what's actually happening, then lays out two 
+real, opposing paths forward. No recommendation.
+
+Built in React and Vercel serverless functions, powered by the Claude API for extraction and analysis, with the same rate limiting and cost controls as the 100-Day Plan Generator.
+
+→ [github.com/sidhingo/strategy-translator](https://github.com/sidhingo/Strategy-translator)
 
 ---
 
@@ -79,7 +92,7 @@ Two modes: household spend by category with adjustable tariff rate, and sector-l
 
 ## How I work
 
-Every project starts with a question people argue about informally and builds a structured, data-driven answer. The domain varies — private equity, sports, pop culture, macroeconomics — but the pattern is the same: take something that's usually haphazard and make it measurable.
+Every project starts with a question people argue about informally and builds a structured, data-driven answer. The domain varies across private equity, sports, pop culture, macroeconomics, etc. but the pattern is the same: take something that's usually haphazard and make it measurable.
 
 Building in React, TypeScript, and Tailwind. Data in Supabase and static JSON. Deploying in Vercel. 
 
